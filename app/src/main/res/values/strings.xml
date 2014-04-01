@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fortune Crunch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="internet">When internet work, man happy!</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string-array
+        name="fortune_array">
+        <item>"Help, I'm trapped in a fortune cookie factory!"</item>
+        <item>"When looking for beauty, look no further than the mirror"</item>
+        <item>"You will have a pleasent surprise"</item>
+        <item>"Whenever possible, keep it simple"</item>
+        <item>"You are not illiterate"</item>
+        <item>"Someone loves you"</item>
+        <item>"Strive not to be a success, but rather to be of value. –Albert Einstein"</item>
+        <item>"Whatever the mind of man can conceive and believe, it can achieve."</item>
+        <item>"You miss 100% of the shots you don’t take. –Wayne Gretzky"</item>
+        <item>"Life is what happens to you while you’re busy making other plans. –John Lennon"</item>
+        <item>"The past is a ghost, the future a dream. All we ever have is now. –Bill Cosby"</item>
+        <item>"The mind is everything. What you think you become.  –Buddha"</item>
+        <item>"Life is 10% what happens to me and 90% of how I react to it. –Charles Swindoll"</item>
+        <item>"The best time to plant a tree was 20 years ago. The second best time is now. –Chinese Proverb"</item>
+        <item>"I am not a product of my circumstances. I am a product of my decisions. –Stephen Covey"</item>
+        <item>"Winning isn’t everything, but wanting to win is. –Vince Lombardi"</item>
+        <item>"Every child is an artist.  The problem is how to remain an artist once he grows up. –Pablo Picasso"</item>
+    </string-array>
+</resources>
